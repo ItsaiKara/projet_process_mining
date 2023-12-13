@@ -5,11 +5,10 @@ The given data represents varying levels of discrimination per domain. In the fo
 Guidelines:
 
 1. About the log:
-    - Traces analysis (which column corresponds to case ID, activity, timestamp) and extra informations (ressources, cost, operator...)
+    <!-- - Traces analysis (which column corresponds to case ID, activity, timestamp) and extra informations (ressources, cost, operator...) -->
     - Statistics (number of cases/ traces, number of variants, number of cases by variant, average number of activities by cases, min and max number of activities, min-max-average duration, statistics using ressources...)
     - **Are there any outliers? Noise?**
     - Missing part?
-    - Reflection about privacy preservation
 2. Sampling the log
     - Subset selection (random, more frequent variants...)
     - Discover process models on subset or whole logs using various algorithms
